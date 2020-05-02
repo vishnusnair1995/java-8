@@ -2,20 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f6d9399-2dcd-4ca3-b5d8-2e9c119c8403" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/lamda/AnonymousInnerClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/lamda/ForEachSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/lamda/LambaSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/lamda/LambdaDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/lamda/LambdaExercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/lamda/LambdaSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/lamda/LambdaSingleParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/lamda/LambdaStringLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/lamda/LambdaSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/lamda/ListLamdaIterate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/lamda/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/functionalbasic/FunctionalBasicPrograming.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sampleapplication.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/java8/interfaces/InterfaceSample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/java8/interfaces/InterfaceSample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java8/lamda/LambdaSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/java8/lamda/LambdaSum.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -28,15 +17,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/java8/lamda/AnonymousInnerClass.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/java8/lamda/LambdaSum.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
@@ -45,11 +25,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Thread.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/java8/functionalbasic/FunctionalBasicPrograming.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1751">
-              <caret line="140" column="6" selection-start-line="140" selection-start-column="6" selection-end-line="140" selection-end-column="6" />
+            <state relative-caret-position="340">
+              <caret line="62" column="61" lean-forward="true" selection-start-line="62" selection-start-column="61" selection-end-line="62" selection-end-column="61" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#355#356#0" expanded="true" />
+                <element signature="e#391#392#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -170,6 +164,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/java8/lamda/LambdaExercise.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/java8/lamda/ListLamdaIterate.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/java8/lamda/LambdaSum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java8/functionalbasic/FunctionalBasicPrograming.java" />
       </list>
     </option>
   </component>
@@ -192,6 +187,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -233,62 +229,47 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="java8" type="462c0819:PsiDirectoryNode" />
-              <item name="lamda" type="462c0819:PsiDirectoryNode" />
+              <item name="functionalbasic" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sampleapplication" type="b2602c69:ProjectViewProjectNode" />
               <item name="sampleapplication" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="java8" type="462c0819:PsiDirectoryNode" />
-              <item name="lamda" type="462c0819:PsiDirectoryNode" />
-              <item name="AnonymousInnerClass.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sampleapplication" type="b2602c69:ProjectViewProjectNode" />
               <item name="sampleapplication" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="java8" type="462c0819:PsiDirectoryNode" />
-              <item name="lamda" type="462c0819:PsiDirectoryNode" />
-              <item name="LambaSample.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sampleapplication" type="b2602c69:ProjectViewProjectNode" />
               <item name="sampleapplication" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="java8" type="462c0819:PsiDirectoryNode" />
-              <item name="lamda" type="462c0819:PsiDirectoryNode" />
-              <item name="LambdaDemo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sampleapplication" type="b2602c69:ProjectViewProjectNode" />
               <item name="sampleapplication" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="java8" type="462c0819:PsiDirectoryNode" />
-              <item name="lamda" type="462c0819:PsiDirectoryNode" />
-              <item name="LambdaSum.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575556074411" />
-    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588416781246" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -302,13 +283,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LambdaSum">
-    <configuration name="LambdaExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8.lamda.LambdaExercise" />
+  <component name="RunManager" selected="Application.FunctionalBasicPrograming">
+    <configuration name="FunctionalBasicPrograming" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java8.functionalbasic.FunctionalBasicPrograming" />
       <module name="sampleapplication" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java8.lamda.*" />
+          <option name="PATTERN" value="com.java8.functionalbasic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -316,8 +297,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LambdaSingleParam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8.lamda.LambdaSingleParam" />
+    <configuration name="LambdaExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java8.lamda.LambdaExercise" />
       <module name="sampleapplication" />
       <extension name="coverage">
         <pattern>
@@ -370,11 +351,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FunctionalBasicPrograming" />
         <item itemvalue="Application.LambdaSum" />
         <item itemvalue="Application.LambdaExercise" />
         <item itemvalue="Application.LambdaStringLength" />
         <item itemvalue="Application.ListLamdaIterate" />
-        <item itemvalue="Application.LambdaSingleParam" />
       </list>
     </recent_temporary>
   </component>
@@ -394,16 +375,17 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21946308" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22281879" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="SonarLint" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.22905028" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4455307" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.35055867" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -454,13 +436,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/java8/interfaces/InterfaceDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -524,7 +499,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/java8/lamda/AnonymousInnerClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
+        <state relative-caret-position="612">
           <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
         </state>
       </provider>
@@ -612,6 +587,25 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java8/functionalbasic/FunctionalBasicPrograming.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="62" column="61" lean-forward="true" selection-start-line="62" selection-start-column="61" selection-end-line="62" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
